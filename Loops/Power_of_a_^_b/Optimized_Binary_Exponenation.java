@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class Optimized {
+public class Optimized_Binary_Exponenation {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         long a = sc.nextInt();
