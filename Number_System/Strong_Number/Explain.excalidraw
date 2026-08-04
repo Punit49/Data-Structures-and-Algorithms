@@ -1,0 +1,51 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "elements": [
+    {
+      "id": "eCvqzmSvjbeHLW0n2k_4I",
+      "type": "text",
+      "x": 493.58865932365546,
+      "y": 92.73825317468484,
+      "width": 359.37640936229633,
+      "height": 270,
+      "angle": 0,
+      "strokeColor": "#e03131",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a0",
+      "roundness": null,
+      "seed": 659858390,
+      "version": 139,
+      "versionNonce": 876495690,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1785826703439,
+      "link": null,
+      "locked": false,
+      "text": "A Strong Number is\na number whose sum\nof the factorials of\nits digits is equal\nto the number\nitself.",
+      "fontSize": 36,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "A Strong Number is a number whose sum of the factorials of its digits is equal to the number itself.",
+      "autoResize": false,
+      "lineHeight": 1.25
+    }
+  ],
+  "appState": {
+    "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
