@@ -1,0 +1,51 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "elements": [
+    {
+      "id": "y7nPkB4k1D4ibu-gRhJHL",
+      "type": "text",
+      "x": 283,
+      "y": 176,
+      "width": 1374.7441694659533,
+      "height": 752.9362410098232,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a0",
+      "roundness": null,
+      "seed": 777410329,
+      "version": 106,
+      "versionNonce": 545988503,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1786004124824,
+      "link": null,
+      "locked": false,
+      "text": "Problem:\nGiven a 10-digit ISBN number, determine whether it is\nvalid.\n\nRule:\nMultiply each digit by its position (1 to 10), add all the\nproducts, and if the total sum is divisible by 11, the\nISBN is valid; otherwise, it is invalid.\n\nNote:\nIf the input does not contain exactly 10 digits, it is\nconsidered invalid.",
+      "fontSize": 50.19574940065488,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Problem:\nGiven a 10-digit ISBN number, determine whether it is valid.\n\nRule:\nMultiply each digit by its position (1 to 10), add all the products, and if the total sum is divisible by 11, the ISBN is valid; otherwise, it is invalid.\n\nNote:\nIf the input does not contain exactly 10 digits, it is considered invalid.",
+      "autoResize": false,
+      "lineHeight": 1.25
+    }
+  ],
+  "appState": {
+    "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}

@@ -1,0 +1,51 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "elements": [
+    {
+      "id": "T0NBcGR11NoF6kVSc0dwF",
+      "type": "text",
+      "x": 382.33942648593563,
+      "y": 347.0650861695977,
+      "width": 1212.730047268287,
+      "height": 380.1730284391681,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a0",
+      "roundness": null,
+      "seed": 1077992382,
+      "version": 116,
+      "versionNonce": 446526690,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1785997265079,
+      "link": null,
+      "locked": false,
+      "text": "An abundant number is a number\nwhose sum of proper divisors\n(excluding the number itself) is\ngreater than the number.",
+      "fontSize": 76.03460568783362,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "An abundant number is a number whose sum of proper divisors (excluding the number itself) is greater than the number.",
+      "autoResize": false,
+      "lineHeight": 1.25
+    }
+  ],
+  "appState": {
+    "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}

@@ -1,2 +1,0 @@
-ut.println(i);
-            i++;

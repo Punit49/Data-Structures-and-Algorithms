@@ -1,0 +1,51 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "elements": [
+    {
+      "id": "zmMcC_l2v4GwSLyBWfvHb",
+      "type": "text",
+      "x": -373.3093928707051,
+      "y": 249,
+      "width": 2460.738170507035,
+      "height": 1262.094984964218,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a1",
+      "roundness": null,
+      "seed": 129061510,
+      "version": 34,
+      "versionNonce": 1037687578,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1786013739276,
+      "link": null,
+      "locked": false,
+      "text": "Problem: Check if a Number is a Neon Number\n\nGiven an integer N, determine whether it is a Neon number.\n\nA Neon number is a number whose sum of the digits of its square is equal to the number itself.\n\nReturn \"Yes\" if N is a Neon number; otherwise, return \"No\".\n\nExamples:\nInput: 9\nOutput: Yes\nExplanation: 9² = 81, and 8 + 1 = 9.\n\nInput: 10\nOutput: No\nExplanation: 10² = 100, and 1 + 0 + 0 = 1 ≠ 10.\n\nConstraints:\n0 ≤ N ≤ 10⁶",
+      "fontSize": 53.14084147217758,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Problem: Check if a Number is a Neon Number\n\nGiven an integer N, determine whether it is a Neon number.\n\nA Neon number is a number whose sum of the digits of its square is equal to the number itself.\n\nReturn \"Yes\" if N is a Neon number; otherwise, return \"No\".\n\nExamples:\nInput: 9\nOutput: Yes\nExplanation: 9² = 81, and 8 + 1 = 9.\n\nInput: 10\nOutput: No\nExplanation: 10² = 100, and 1 + 0 + 0 = 1 ≠ 10.\n\nConstraints:\n0 ≤ N ≤ 10⁶",
+      "autoResize": true,
+      "lineHeight": 1.25
+    }
+  ],
+  "appState": {
+    "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}

@@ -6,7 +6,7 @@ public class Optimized {
         int n = sc.nextInt();
         double sqrt = Math.sqrt(n);
         
-        for(int i = 1; i <= sqrt; i++){
+        for(int i = 2; i <= sqrt; i++){
             if(n % i == 0){
                 System.out.print(i + " ");
 
@@ -15,5 +15,5 @@ public class Optimized {
                 }
             }
         }
-    }
+    } // ascending order...
 }
