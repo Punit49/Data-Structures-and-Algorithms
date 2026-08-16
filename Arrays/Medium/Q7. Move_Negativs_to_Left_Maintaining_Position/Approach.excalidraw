@@ -1,0 +1,51 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "elements": [
+    {
+      "id": "YAOGdKub0-mpHednTOX_p",
+      "type": "text",
+      "x": 349,
+      "y": 295,
+      "width": 749.9595336914062,
+      "height": 50,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a0",
+      "roundness": null,
+      "seed": 40641132,
+      "version": 165,
+      "versionNonce": 1635332180,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1786863206135,
+      "link": null,
+      "locked": false,
+      "text": "the bruteforce approach takes extra time of O(n^2)\noptimized one uses extra spcae O(n) but with linear time complexity of O(n) ",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "the bruteforce approach takes extra time of O(n^2)\noptimized one uses extra spcae O(n) but with linear time complexity of O(n) ",
+      "autoResize": true,
+      "lineHeight": 1.25
+    }
+  ],
+  "appState": {
+    "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
