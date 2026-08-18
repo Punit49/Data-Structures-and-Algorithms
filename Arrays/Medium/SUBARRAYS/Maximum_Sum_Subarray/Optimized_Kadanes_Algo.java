@@ -15,7 +15,7 @@ public class Optimized_Kadanes_Algo {
     }
 
     public static void main(String[] args) {
-        int[] arr = { 3, -4, 5, 4, -1, 7, -8, 10, 12, 15, -100 };
+        int[] arr = { -3, -10, -8};
         System.out.println(kadanesAlgorithm(arr));;
     }
 }
