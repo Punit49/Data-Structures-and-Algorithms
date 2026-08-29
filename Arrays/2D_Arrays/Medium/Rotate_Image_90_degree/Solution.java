@@ -1,3 +1,5 @@
+// LC - 48 - https://leetcode.com/problems/rotate-image/description/
+
 import java.util.Arrays;
 
 public class Solution{
@@ -11,11 +13,12 @@ public class Solution{
 
             int start = 0;
             int end = n - 1;
+            int[] arr = matrix[i];
 
             while(start < end){
-                int temp = matrix[i][start];
-                matrix[i][start] = matrix[i][end];
-                matrix[i][end] = temp;
+                int temp = arr[start];
+                arr[start] = arr[end];
+                arr[end] = temp;
                 start++;
                 end--;
             }
