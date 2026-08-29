@@ -1,3 +1,4 @@
+// LC - 73. Set Matrix Zeroes - https://leetcode.com/problems/set-matrix-zeroes/description/
 import java.util.Arrays;
 
 public class Optimized{
@@ -54,3 +55,6 @@ public class Optimized{
         System.out.println(Arrays.deepToString(setZeroes(matrix)));
     }
 }
+
+// TC - O(mn)
+// SC- O(1)

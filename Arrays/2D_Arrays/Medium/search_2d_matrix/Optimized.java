@@ -1,3 +1,4 @@
+// lC - 74. Search a 2D Matrix - https://leetcode.com/problems/search-a-2d-matrix/
 public class Optimized {
     public static boolean binarySearch(int[][] matrix, int target) {
         int m = matrix.length;
@@ -30,3 +31,6 @@ public class Optimized {
         System.out.println(binarySearch(matrix, target));
     }
 }
+
+// TC - O(log(m * n))
+// SC - O(1)

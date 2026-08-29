@@ -1,4 +1,4 @@
-public class BruteForce {
+public class Staircase {
     public static boolean searchMatrix(int[][] matrix, int target) {
        int m = matrix.length;
        int n = matrix[0].length;

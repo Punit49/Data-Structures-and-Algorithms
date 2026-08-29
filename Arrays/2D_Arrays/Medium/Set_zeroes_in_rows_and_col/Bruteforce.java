@@ -1,4 +1,4 @@
-
+// when all elements are >= 0
 import java.util.Arrays;
 
 public class Bruteforce {
