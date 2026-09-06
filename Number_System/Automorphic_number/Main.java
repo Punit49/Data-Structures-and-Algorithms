@@ -3,7 +3,6 @@ import java.util.Scanner;
 
 
 public class Main {
-
     public static boolean isAutomorphic(int n){
         long squared = 1L * n * n;
 
