@@ -3,10 +3,10 @@ public class Bruteforce {
         int maxSum = Integer.MIN_VALUE;
         int n = arr.length;
 
-        for(int start = 0; start < n; start++){
+        for(int i = 0; i < n; i++){
             int curSum = 0;
-            for(int end = start; end < n; end++){
-                curSum += arr[end];
+            for(int j = i; j < n; j++){
+                curSum += arr[j];
                 maxSum = Math.max(curSum, maxSum);
             }
         }
@@ -19,3 +19,7 @@ public class Bruteforce {
         System.out.println(maxSubarraySum(arr));
     }
 }
+
+// TC - O(n^2)
+// SC - O(1)
+// LC - 53. Maximum Subarray - https://leetcode.com/problems/maximum-subarray/description/
