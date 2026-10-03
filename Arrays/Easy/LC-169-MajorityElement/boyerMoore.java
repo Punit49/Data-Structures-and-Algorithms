@@ -9,6 +9,15 @@ class boyerMoore {
             else count--;
         }
 
+        // if majority element doesnt exists - 
+        // int count2=0;
+        // for(int n: nums){
+        //     if(n == element) count2++;
+        // }
+        // if(count2 > (nums.length / 2)) return element;
+        
+        // return -1;
+
         return element;
     }
 
