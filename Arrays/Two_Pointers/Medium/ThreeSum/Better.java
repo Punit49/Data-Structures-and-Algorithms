@@ -1,11 +1,12 @@
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
 public class Better {
     public static List<List<Integer>> threeSum(int[] nums){
-        List<List<Integer>> result = new ArrayList<>();
+        Set<List<Integer>> result = new HashSet<>();
         int n = nums.length;
 
         for(int i = 0; i < n; i++){
@@ -14,12 +15,17 @@ public class Better {
                 int offset = -(nums[i] + nums[j]);
                 if(set.contains(offset)){
                     List<Integer> list = new ArrayList<>();
-                    
+                    list.add(nums[i]);
+                    list.add(nums[j]);
+                    list.add(offset);
+                    Collections.sort(list);
+                    result.add(list);
                 }
+                set.add(nums[j]);
             }
         }
 
-        return result;
+        return new ArrayList<>(result);
     }  
     public static void main(String[] args) {
         int[] nums = {-1,0,1,2,-1,-4};
@@ -27,6 +33,6 @@ public class Better {
     }
 }
 
-// Time Complexity- O(n^3)
-// Space Complexity - O(n^3) worst case
+// Time Complexity- O(n^2)
+// Space Complexity - O(n^2) / O(m) where m = number of unique triplets and O(1) without output consideration 
 // Leetcode - 15 - https://leetcode.com/problems/3sum/description/
